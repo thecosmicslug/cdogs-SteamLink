@@ -7,8 +7,6 @@
 
 ## ![](https://github.com/cxong/cdogs-sdl/blob/master/graphics/radio.png) Introduction
 
-CDogs-Steamlink Port coming soon!
-
 C-Dogs SDL is a classic overhead run-and-gun game, supporting up to 4 players
 in co-op and deathmatch modes. Customize your player, choose from many weapons,
 and blast, slide and slash your way through over 100 user-created campaigns.
